@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Call of Duty PS5",
+    "price": 15000,
+    "thumbnail": "https://res.cloudinary.com/dytullckw/image/upload/v1668114295/ecommerceReact/call-of-duty-modern-warfare-ii-ps5_bfpul9.jpg",
+    "id": 1
+  },
+  {
+    "title": "Gran Turismo 7 PS5",
+    "price": 18900,
+    "thumbnail": "https://res.cloudinary.com/dytullckw/image/upload/v1668114094/ecommerceReact/gran-turismo-7_jmkpxh.jpg",
+    "id": 4
+  },
+  {
+    "title": "Fifa 23 PS5",
+    "price": 14000,
+    "thumbnail": "https://res.cloudinary.com/dytullckw/image/upload/v1668113944/ecommerceReact/fifa-23-ps5-retro-removebg-preview_1_ewz8um.png",
+    "id": 5
+  },
+  {
+    "title": "PS5 Consola",
+    "price": 529500,
+    "thumbnail": "https://res.cloudinary.com/dytullckw/image/upload/v1668113153/ecommerceReact/ps5-product-thumbnail-01-en-14sep21_hbvldv.webp",
+    "id": 6
+  },
+  {
+    "title": "XBOX ONE Consola",
+    "price": 354100,
+    "thumbnail": "https://res.cloudinary.com/dytullckw/image/upload/v1668112964/ecommerceReact/1058-producto-xbox-one-s-1-1-790x500-1111-removebg-preview_mq1ir1.png",
+    "id": 7
+  },
+  {
+    "name": "Fernando",
+    "lastName": "Salomone",
+    "id": 8
+  },
+  {
+    "name": "Fernando",
+    "lastName": "Salomone",
+    "id": 9
+  },
+  {
+    "name": "Fernando",
+    "lastName": "Salomone",
+    "id": 10
+  }
+]
